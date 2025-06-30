@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋<br>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnWeidman&theme=github-compact) <br>
 ## 🚀 Full-Stack Developer | Civic Tech Enthusiast | Problem Solver
 
 I build web applications that make a difference, from civic engagement platforms to business solutions.
