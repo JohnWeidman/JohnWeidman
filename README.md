@@ -20,8 +20,8 @@ Library Management System - Front-end Vue.js application with search and catalog
 React Library Catalog - Modern React SPA with responsive design
 
 - 🔭 I’m currently working on: <br>
-			-Expanding RepCheck with AI-powered bill summaries <br>
-			-Building a data pipeline to ingest congressional bill and law data from the<br>                   api.congress.gov
+      - Integrating AI into RepCheck
+			- Building a data pipeline to ingest congressional bill and law data from<br>                   api.congress.gov
   
 - 🌱 I’m currently learning DevOps, AI integration, HTMX, and Django REST API
   
